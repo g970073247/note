@@ -1,0 +1,12 @@
+printenv | grep ROS
+
+//install deb
+sudo apt install ./<file>.deb
+
+apt search ros-melodic
+apt-cache search ros-kinetic
+
+echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+
+//to install catkin build
+sudo apt-get install python-catkin-tools

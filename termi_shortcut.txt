@@ -1,0 +1,3 @@
+close window   shift+ctrl+q
+close termi    shift+ctrl+w
+cycle next    ctrl+tab
